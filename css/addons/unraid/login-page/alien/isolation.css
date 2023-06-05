@@ -1,7 +1,7 @@
-@import url("/hiott44/theme.park/css/addons/unraid/login-page/alien/alien-base.css");
+@import url(css/addons/unraid/login-page/alien/isolation.css);
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(19, 15, 219, 0.1) 0,rgba(19, 15, 219,0) 100%) center center/cover no-repeat fixed, 
-    url(/hiott44/theme.park/css/addons/unraid/login-page/alien/wallpaper/isolation.png) center center/cover no-repeat fixed;
+    url(css/addons/unraid/login-page/alien/wallpaper/isolation.png) center center/cover no-repeat fixed;
     --logo: url(https://w7.pngwing.com/pngs/84/232/png-transparent-space-shuttle-enterprise-logo-organization-emblem-uss-enterprise-ncc-1701-others-emblem-logo-starship-enterprise.png) center no-repeat;
     --text-color: #130fdb;
     --input-color: #130fdb;
