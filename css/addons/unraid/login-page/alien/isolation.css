@@ -1,4 +1,4 @@
-@import url(/theme.park/css/addons/unraid/login-page/alien/isolation.css);
+@import url("/theme.park/css/addons/unraid/login-page/alien/isolation.css");
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(19, 15, 219, 0.1) 0,rgba(19, 15, 219,0) 100%) center center/cover no-repeat fixed, 
     url(/theme.park/css/addons/unraid/login-page/alien/wallpaper/isolation.png) center center/cover no-repeat fixed;
