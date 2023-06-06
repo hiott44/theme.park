@@ -1,8 +1,8 @@
 @import url("/theme.park/css/addons/unraid/login-page/alien/isolation.css");
 :root {
     --main-bg: radial-gradient(ellipse at center,rgba(19, 15, 219, 0.1) 0,rgba(19, 15, 219,0) 100%) center center/cover no-repeat fixed, 
-    url(/theme.park/css/addons/unraid/login-page/alien/wallpaper/isolation.png) center center/cover no-repeat fixed;
-    --logo: url(https://res.cloudinary.com/startrekdesignproject-com/image/upload/v1589231489/USSEnterpriseSeal2250s.png) center no-repeat;
+    url("/theme.park/css/addons/unraid/login-page/alien/wallpaper/isolation.png") center center/cover no-repeat fixed;
+    --logo: url("https://res.cloudinary.com/startrekdesignproject-com/image/upload/v1589231489/USSEnterpriseSeal2250s.png") center no-repeat;
     --text-color: #130fdb;
     --input-color: #130fdb;
     --link-color: #130fdb;
